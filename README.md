@@ -17,6 +17,9 @@ An interactive hospital dashboard built with **Power BI**, following a guided pr
 * Department and medical service insights
 * Interactive filters and visualizations
 
+## Files
+- [Hospital ER analysis](./Hospital ER analysis.pbix)
+
 ### Note
 
 This project was completed as a **guided learning project** to practice Power BI, Power Query, and DAX skills.
