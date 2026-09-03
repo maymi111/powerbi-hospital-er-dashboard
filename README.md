@@ -18,7 +18,8 @@ An interactive hospital dashboard built with **Power BI**, following a guided pr
 * Interactive filters and visualizations
 
 ## Files
-- [Hospital ER analysis](./Hospital ER analysis.pbix)
+
+* [Power BI Dashboard](./Hospital%20ER%20analysis.pbix)
 
 ### Note
 
