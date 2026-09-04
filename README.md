@@ -17,6 +17,20 @@ An interactive hospital dashboard built with **Power BI**, following a guided pr
 * Department and medical service insights
 * Interactive filters and visualizations
 
+## Dashboard Preview
+
+### Monthly View
+![Monthly View](/monthly-view.png)
+
+### Consolidated View
+![Consolidated View](/consolidated-view.png)
+
+### Patient Details
+![Patient Details](/patient-details.png)
+
+### Key Takeaways
+![Key Takeaways](/key-takeaways.png)
+
 ## Files
 
 * [Power BI Dashboard](./Hospital%20ER%20analysis.pbix)
